@@ -1,0 +1,5 @@
+export(bw21,bw21x,plot21, plot21x, plot_bwsurvival,summary_bwsurvival)
+
+
+
+
